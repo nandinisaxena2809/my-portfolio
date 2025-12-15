@@ -45,22 +45,6 @@ A modern, responsive personal portfolio website showcasing my projects, skills, 
 
 ---
 
-## 📂 Project Structure
-
-portfolio/
-├── public/
-│   ├── favicon.ico
-│   └── assets/
-├── src/
-│   ├── components/
-│   ├── sections/
-│   ├── styles/
-│   └── main.tsx
-├── index.html
-├── package.json
-└── tailwind.config.ts
-
----
 
 ## 🚀 Getting Started Locally
 
