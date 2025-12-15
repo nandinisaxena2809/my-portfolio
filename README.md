@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my projects, skills, and professional experience as a **Full-Stack MERN Developer**. Built with a focus on clean UI, smooth interactions, and performance, and deployed on **Vercel**.
 
-🔗 **Live Website:** https://your-vercel-url.vercel.app  
+🔗 **Live Website:** https://nandinisaxena-portfolio.vercel.app/ 
 📧 **Contact:** nandinisaxena2809@gmail.com
 
 ---
