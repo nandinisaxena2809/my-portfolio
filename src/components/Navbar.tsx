@@ -49,7 +49,7 @@ const Navbar = () => {
           }}
         >
           <Sparkles className="w-5 h-5 text-primary" />
-          <span className="font-mono">&lt;nandini /&gt;</span>
+          <span className="font-mono">&lt;Nandini Saxena/&gt;</span>
         </a>
 
         {/* Desktop Navigation */}

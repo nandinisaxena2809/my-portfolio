@@ -30,17 +30,6 @@ const experiences = [
     color: "from-lavender to-primary",
   },
   
-  {
-    title: "Design Co-Lead",
-    company: "IIIT Vadodara Finance & Consulting Club",
-    period: "Aug 2024 – Jul 2025",
-    description: [
-      "Led design initiatives for social media posts and event promotions",
-      "Conducted a Canva design workshop for 50+ students",
-      "Coordinated with cross-functional teams to enhance event visibility and student engagement",
-    ],
-    color: "from-pink to-accent",
-  },
 ];
 
 const ExperienceSection = () => {

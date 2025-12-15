@@ -1,4 +1,4 @@
-import { ArrowDown, Github, Linkedin, Mail, Code2, Heart } from "lucide-react";
+import { ArrowDown, Github, Linkedin, Mail, Code2, Heart, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const HeroSection = () => {
@@ -87,7 +87,18 @@ const HeroSection = () => {
               <Mail className="w-5 h-5" />
               Get in Touch
             </Button>
+            <Button
+              variant="lavender"
+              size="lg"
+              asChild
+            >
+              <a href="/Nandini_Saxena_Resume.pdf" download>
+                <Download className="w-5 h-5" />
+                Download Resume
+              </a>
+            </Button>
           </div>
+          
 
           {/* Social Links */}
           <div 
