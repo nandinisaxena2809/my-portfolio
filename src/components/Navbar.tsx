@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Menu, X, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import ThemeToggle from "./ThemeToggle";
 
 const navLinks = [
   { name: "About", href: "#about" },
@@ -48,7 +49,7 @@ const Navbar = () => {
           }}
         >
           <Sparkles className="w-5 h-5 text-primary" />
-          <span className="font-mono">&lt;Nandini Saxena/&gt;</span>
+          <span className="font-mono">&lt;nandini /&gt;</span>
         </a>
 
         {/* Desktop Navigation */}
@@ -64,6 +65,7 @@ const Navbar = () => {
               {link.name}
             </Button>
           ))}
+          <ThemeToggle />
           <Button
             variant="cute"
             size="sm"
@@ -75,14 +77,16 @@ const Navbar = () => {
         </div>
 
         {/* Mobile Menu Button */}
-        <Button
-          variant="ghost"
-          size="icon"
-          className="md:hidden"
-          onClick={() => setIsOpen(!isOpen)}
-        >
-          {isOpen ? <X /> : <Menu />}
-        </Button>
+        <div className="flex items-center gap-1 md:hidden">
+          <ThemeToggle />
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={() => setIsOpen(!isOpen)}
+          >
+            {isOpen ? <X /> : <Menu />}
+          </Button>
+        </div>
       </div>
 
       {/* Mobile Navigation */}
