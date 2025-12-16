@@ -12,7 +12,7 @@ A modern, responsive personal portfolio website showcasing my projects, skills, 
 - Modern, responsive UI with glassmorphism design
 - About, Experience, Skills, Projects, and Contact sections
 - Functional contact form with email delivery (Formspree integration)
-- SEO-friendly setup (custom title, favicon, meta tags)
+- SEO-friendly setup
 - Smooth hover effects and subtle animations
 - Clean, maintainable component-based architecture
 - Deployed and continuously updated via Vercel
@@ -44,7 +44,6 @@ A modern, responsive personal portfolio website showcasing my projects, skills, 
 - Vite
 
 ---
-
 
 ## 🚀 Getting Started Locally
 
@@ -93,7 +92,7 @@ The contact form is powered by **Formspree**, ensuring reliable message delivery
 
 ## 📌 About Me
 
-I’m a **B.Tech Computer Science student at IIIT Vadodara** with a strong foundation in **Data Structures & Algorithms** and hands-on experience in **full-stack MERN development**. I enjoy building scalable, user-centric web applications and turning ideas into polished, real-world products.
+I’m a **B.Tech Computer Science student at IIIT Vadodara** with a strong foundation in **DSA** and hands-on experience in **full-stack MERN development**. I enjoy building scalable, user-centric web applications and turning ideas into polished, real-world products.
 
 ---
 
