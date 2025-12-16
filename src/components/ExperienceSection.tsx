@@ -133,6 +133,17 @@ const ExperienceSection = () => {
               </a>
             </div>
             <div className="glass-card rounded-xl p-4 text-center hover:shadow-soft transition-all">
+              <span className="text-3xl mb-2 block">⚙️</span>
+              <a
+              href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_yJb2GsxdK2s4PC5R5_1765895044407_completion_certificate.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-muted-foreground hover:underline"
+              >
+              Deloitte Australia - Technology Job Simulation
+              </a>
+            </div>
+            <div className="glass-card rounded-xl p-4 text-center hover:shadow-soft transition-all">
               <span className="text-3xl mb-2 block">🌟</span>
               <a
               href="https://www.linkedin.com/feed/update/urn:li:activity:7353015803744608257/?originTrackingId=ubMJ0hVF8b7B3nJ2wn3bRw%3D%3D"
