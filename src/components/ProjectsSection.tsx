@@ -30,13 +30,13 @@ const projects = [
     live: "https://truegtm.com",
   },
   {
-    title: "Lummra AstroTech App",
-    description: "Contributed to a mobile app using React Native + ExpoGo. Built UI components, integrated APIs, and optimized frontend performance.",
-    tech: ["React Native", "TypeScript", "Node.js", "Figma"],
+    title: "Personal Portfolio Website",
+    description: "Designed and developed a responsive portfolio website to showcase projects, skills, and experience. Implemented modern UI, smooth animations, and SEO best practices; deployed the site with a production-ready build pipeline.",
+    tech: ["React.js", "TypeScript", "Tailwind CSS", "Vite", "Vercel"],
     gradient: "from-lavender to-mint",
-    emoji: "🔮",
-    github: "#",
-    live: "#",
+    emoji: "🌐",
+    github: "https://github.com/nandinisaxena2809/my-portfolio",
+    live: "https://nandinisaxena-portfolio.vercel.app/",
   },
 ];
 
