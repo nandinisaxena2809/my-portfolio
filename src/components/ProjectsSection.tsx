@@ -53,7 +53,7 @@ const ProjectsSection = () => {
             <span className="font-mono text-sm">./projects</span>
           </div>
           <h2 className="text-3xl md:text-4xl font-bold">
-            Things I've <span className="gradient-text">Built</span> 🏗️
+            Things I Have <span className="gradient-text">Built</span> 🏗️
           </h2>
           <p className="text-muted-foreground mt-2 max-w-md mx-auto">
             From internships to freelance work - each project taught me something new!
