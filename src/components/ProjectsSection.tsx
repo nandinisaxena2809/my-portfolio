@@ -31,7 +31,7 @@ const projects = [
   {
     title: "Personal Portfolio Website",
     description: "Designed and developed a responsive portfolio website to showcase projects, skills and experiences with modern UI, animations, and SEO best practices.",
-    tech: ["React.js", "TypeScript", "Tailwind CSS", "Vite", "Vercel"],
+    tech: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"],
     gradient: "from-lavender to-mint",
     emoji: "🌐",
     github: "https://github.com/nandinisaxena2809/my-portfolio",
