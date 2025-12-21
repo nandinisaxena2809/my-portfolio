@@ -51,7 +51,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/nandinisaxena2809/my-portfolio.git
-cd portfolio
+cd my-portfolio    # or my-portfolio-main if downloaded as ZIP
 ```
 
 Install dependencies:
